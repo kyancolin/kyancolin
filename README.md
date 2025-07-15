@@ -1,6 +1,6 @@
 # 👋 Hi, I am Kyan
 
-I’m currently in my final year of a Software Development major, where I’m passionate about building my own version of the digital world. Throughout my studies, I’ve found a deep interest in learning new technologies and concepts, which continually drives my growth and curiosity. At the moment, I’m also gaining hands-on experience as a Data Engineering intern at GVB Amsterdam where I’m applying my skills in data management and technical infrastructure, while further expanding my expertise in the field.
+Exploring new stuff :D
 
 ---
 
